@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-02 12:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: hi_IN\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "Hello World"
+msgstr ""
+
+# Example comment
+#. Example pluralized message
+#, php-format
+msgid "An example"
+msgid_plural "%s examples"
+msgstr[0] ""
+msgstr[1] ""
+
+
+
+msgid "Language"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Full life time Access"
+msgstr ""
+
+msgid "Certificate of Completion"
+msgstr ""
+
+msgid "Buy Now"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Topic Covered"
+msgstr ""
+
+msgid "Requirements"
+msgstr ""
+
+msgid "Curriculum"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Resources"
+msgstr ""
+
+msgid "Course Language"
+msgstr ""
+
+msgid "Course buy link"
+msgstr ""
+
+msgid "Course Price"
+msgstr ""
+
+msgid "Full life time access"
+msgstr ""
+
+msgid "Certificate of completion"
+msgstr ""
+
+msgid "Course"
+msgstr ""
+
+msgid "Short Title"
+msgstr ""
+
+
+msgid "Courses"
+msgstr ""
+
+msgid "Parent Course"
+msgstr ""
+
+msgid "All Courses"
+msgstr ""
+
+msgid "View Course"
+msgstr ""
+
+msgid "Add New Course"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Edit Course"
+msgstr ""
+
+msgid "Update Course"
+msgstr ""
+
+msgid "Search Course"
+msgstr ""
+
+msgid "Not Found"
+msgstr ""
+
+msgid "Not found in Trash"
+msgstr ""
+
+msgid "Course news and reviews"
+msgstr ""
+
+msgid "courses"
+msgstr ""
+
